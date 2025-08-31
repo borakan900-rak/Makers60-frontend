@@ -1,4 +1,4 @@
-Makers60 - Frontend
+# Makers60 - Frontend
 
 الموقع الرسمي لإشارات الفوركس والذهب
 
@@ -12,3 +12,8 @@ Makers60 - Frontend
 - الرزنامة الاقتصادية
 - نظام الاشتراكات المدفوعة
 - دعم عربي كامل
+
+### التقنيات:
+- React.js + Tailwind CSS
+- FastAPI Backend
+- MongoDB Database
